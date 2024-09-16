@@ -1,9 +1,9 @@
-# Your Name Here
+# Gabrial Escajeda
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 9/16/24
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 14
+# Sources, people worked with, help given to: None
 # your
 # comments
 # here
@@ -17,11 +17,11 @@ print('Hello, COSC1010')
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = "Hello, COSC1010"
-print("hello_message")
+print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 Cow = "cowboy joe"
-print("Cow")
+print(Cow)
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
